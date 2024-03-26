@@ -69,11 +69,7 @@ Some potential improvements and future work for this project include:
 - Incorporating additional features or constraints to improve the accuracy of box detection and dimension estimation.
 - Extending the algorithm to work with other types of depth sensors or point cloud data.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
-- The example datasets used in this project were provided as part of the Computer Vision course at [University Name].
+- The example datasets used in this project were provided as part of the Computer Vision course at FAU.
 - The RANSAC implementation is based on the pseudocode provided in the lecture slides.
