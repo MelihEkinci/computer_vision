@@ -7,10 +7,10 @@ This repository contains the implementation and exploration of selective search 
 - **Exercise 5.2**: Development of a detection pipeline leveraging region proposals for object detection, mandatory for 10 ECTS participants.
 
 <p float="left">
-  <img src="results/baptism1.png" width="400" /> <!-- Adjust width as needed -->
-  <img src="results/leading1.png" width="400" /> <!-- Adjust width as needed -->
-  <img src="results/pursuit2.png" width="400" /> <!-- Adjust width as needed -->
-  <img src="results/ajax3.png" width="400" /> <!-- Adjust width as needed -->
+  <img src="results/baptism1.jpg" width="400" /> <!-- Adjust width as needed -->
+  <img src="results/leading1.jpg" width="400" /> <!-- Adjust width as needed -->
+  <img src="results/pursuit2.jpg" width="400" /> <!-- Adjust width as needed -->
+  <img src="results/ajax3.jpg" width="400" /> <!-- Adjust width as needed -->
 </p>
 
 
