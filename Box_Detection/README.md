@@ -2,6 +2,8 @@
 
 This repository contains a solution for detecting and measuring the dimensions of a box using Kinect depth data. The algorithm takes a point cloud and an amplitude image as input and estimates the length, width, and height of the box.
 
+![Box Detection Example 1](images/1.png) ![Box Detection Example 1](images/2.png) ![Box Detection Example 1](images/3.png)![Box Detection Example 1](images/4.png)
+
 ## Problem Description
 
 The goal of this project is to develop an algorithm that can estimate the size of a box from a distance image captured by a Kinect sensor. The input data consists of an amplitude image, a distance image, and a point cloud, all of which are registered with each other.
