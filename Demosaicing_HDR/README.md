@@ -3,10 +3,10 @@
 This repository contains a Python project focused on demosaicing and High Dynamic Range (HDR) processing of images, inspired by the exercises provided by Mathias Seuret. The project implements algorithms for investigating Bayer patterns, proving sensor data linearity, demosaicing, improving luminosity, white balancing, and initial HDR implementation including the iCAM06 method.
 
 <p float="left">
-  <img src="images/photo1.jpg" width="100" /> <!-- Adjust width as needed -->
-  <img src="images/photo2.jpg" width="100" /> <!-- Adjust width as needed -->
-  <img src="images/photo3.jpg" width="100" /> <!-- Adjust width as needed -->
-  <img src="images/photo4.jpg" width="100" /> <!-- Adjust width as needed -->
+  <img src="results/1.png" width="200" /> <!-- Adjust width as needed -->
+  <img src="results/2.png" width="200" /> <!-- Adjust width as needed -->
+  <img src="results/3.png" width="200" /> <!-- Adjust width as needed -->
+  <img src="results/4.png" width="200" /> <!-- Adjust width as needed -->
 </p>
 
 
