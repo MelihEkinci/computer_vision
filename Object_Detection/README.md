@@ -6,6 +6,14 @@ This repository contains the implementation and exploration of selective search 
 - **Exercise 5.1**: Implementation of the selective search algorithm for object detection, mandatory for all course participants.
 - **Exercise 5.2**: Development of a detection pipeline leveraging region proposals for object detection, mandatory for 10 ECTS participants.
 
+<p float="left">
+  <img src="results/baptism1.png" width="400" /> <!-- Adjust width as needed -->
+  <img src="results/leading1.png" width="400" /> <!-- Adjust width as needed -->
+  <img src="results/pursuit2.png" width="400" /> <!-- Adjust width as needed -->
+  <img src="results/ajax3.png" width="400" /> <!-- Adjust width as needed -->
+</p>
+
+
 ## Installation
 
 Before running any code, ensure you have a compatible Python environment. Install the required dependencies by running:
