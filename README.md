@@ -6,6 +6,14 @@ This repository encompasses five distinct projects, each exploring different asp
 
 Each sub-project within this repository is designed to tackle a unique challenge in computer vision, ranging from image processing and enhancement to object detection and recognition.
 
+<p float="left">
+  <img src="Box_Detection/images/1.png" width="400" /> <!-- Adjust width as needed -->
+  <img src="Demosaicing_HDR/results/8.png" width="400" /> <!-- Adjust width as needed -->
+  <img src="Object_Detection/results/ca-annun1.jpg" width="400" /> <!-- Adjust width as needed -->
+  <img src="results/4.png" width="400" /> <!-- Adjust width as needed -->
+</p>
+
+
 ### 1. Image Demosaicing and HDR
 
 - **Description**: Focuses on implementing algorithms for demosaicing images and enhancing them using High Dynamic Range (HDR) techniques.
