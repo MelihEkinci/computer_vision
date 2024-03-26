@@ -10,7 +10,7 @@ Each sub-project within this repository is designed to tackle a unique challenge
   <img src="Box_Detection/images/1.png" width="400" /> <!-- Adjust width as needed -->
   <img src="Demosaicing_HDR/results/8.png" width="400" /> <!-- Adjust width as needed -->
   <img src="Object_Detection/results/ca-annun1.jpg" width="400" /> <!-- Adjust width as needed -->
-  <img src="results/4.png" width="400" /> <!-- Adjust width as needed -->
+  <img src="Face_Recognition/Screenshot 2024-03-26 at 19.25.13.png" width="400" /> <!-- Adjust width as needed -->
 </p>
 
 
