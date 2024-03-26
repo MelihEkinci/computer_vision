@@ -1,8 +1,8 @@
 # Demosaicing & HDR Project
 
-This repository contains a Python project focused on demosaicing and High Dynamic Range (HDR) processing of images, inspired by the exercises provided by Florian Kordon, Thomas Köhler, Vincent Christlein, Mathias Seuret, and Mathias Zinnen. The project implements algorithms for investigating Bayer patterns, proving sensor data linearity, demosaicing, improving luminosity, white balancing, and initial HDR implementation including the iCAM06 method.
+This repository contains a Python project focused on demosaicing and High Dynamic Range (HDR) processing of images, inspired by the exercises provided by Mathias Seuret. The project implements algorithms for investigating Bayer patterns, proving sensor data linearity, demosaicing, improving luminosity, white balancing, and initial HDR implementation including the iCAM06 method.
 
-![Example Image](results/1.png)
+![Example Image](results/1.png)![Example Image](results/2.png)![Example Image](results/3.png)![Example Image](results/4.png)
 
 ## Project Overview
 
